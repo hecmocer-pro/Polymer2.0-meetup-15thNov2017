@@ -1,6 +1,6 @@
 # \<emoji-background\>
 
-A Polymer 2.0 emoji-background component demo created for a Campus Madrid meetup.
+[2017] A Polymer 2.0 emoji-background component demo created for a Campus Madrid meetup.
 
 ## Install the Polymer-CLI
 
